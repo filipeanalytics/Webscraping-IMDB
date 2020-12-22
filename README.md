@@ -1,0 +1,2 @@
+# Webscraping IMDB
+ This Python application scrapes IMDB most popular movies, summarizes the data dynamically and plots a graph. It’s divided into 3 main functions. The first webscrapes IMDB website, cleanse the data, convert it to a Dataframe and then save into a csv file. The second reads data from the csv file, performs a set of aggregation functions, converts the result to a Dataframe and then prints the results. The third and last function reads the data from the csv file and plots a Scatter Plot for Rating x Ranking.
